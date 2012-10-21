@@ -1,0 +1,1 @@
+* Limit datapipe lifetime based on <CR><LF>.<CR><LF> pattern (allowed # emails per unmodified connection)
