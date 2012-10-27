@@ -1,0 +1,3 @@
+[submodule "modules/cpp-optparse"]
+	path = modules/cpp-optparse
+	url = git@github.com:vbouchaud/cpp-optparse.git
